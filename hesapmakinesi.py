@@ -6,7 +6,6 @@ while(True):
 	secenek3 = "(3) Çarpma"
 	secenek4 = "(4) Bölme"
 
-	print("yapmak istediğiniz işlemin numarasını giriniz.")
 
 	print secenek1
 	print secenek2
@@ -14,5 +13,5 @@ while(True):
 	print secenek4
 
 
-	soru = raw_input(":")
+	soru = raw_input("yapmak istediğiniz işlemin numarasını giriniz:")
 
